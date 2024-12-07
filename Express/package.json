@@ -1,0 +1,15 @@
+{
+  "name": "serverexp",
+  "version": "1.1.0",
+  "main": "serverexp.js",
+  "scripts": {
+    "start": "node serverexp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "url": "^0.11.4"
+  }
+}
